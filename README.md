@@ -54,6 +54,13 @@ GitHub: https://github.com/Shubham-Git-Hub-1Pro
 
 ---
 
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for details.
+
+---
+
 ## © Copyright & License
 
 © 2026 Shubham Kumar Yadav. All rights reserved.
@@ -69,10 +76,3 @@ You may not:
 - Redistribute or sell this project as your own work
 
 For any other use, please contact the author.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](./LICENSE) file for details.
