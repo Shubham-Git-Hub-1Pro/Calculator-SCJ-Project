@@ -52,7 +52,7 @@ Shubham Kumar Yadav
 
 GitHub: https://github.com/Shubham-Git-Hub-1Pro
 
-LinkedIn: www.linkedin.com/in/shubham-kumar-yadav-0b2b7029b
+LinkedIn: https://www.linkedin.com/in/shubham-kumar-yadav-0b2b7029b
 
 ---
 
