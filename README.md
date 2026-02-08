@@ -38,16 +38,13 @@ This project performs basic arithmetic operations and supports both **mouse inpu
 No frameworks. No libraries. Pure frontend.
 
 ---
-
-## 📂 Project Structure
-
-
----
    
 
 📸 Preview
 
 A clean, centered calculator interface with real-calculator behavior and smooth interactions.
+
+---
 
 👨‍💻 Author
 
