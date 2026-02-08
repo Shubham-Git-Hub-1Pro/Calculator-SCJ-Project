@@ -43,12 +43,6 @@ No frameworks. No libraries. Pure frontend.
 
 
 ---
-
-## ⚙️ How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/USERNAME/Calculator-SCJ-Project.git
    
 
 📸 Preview
@@ -59,7 +53,7 @@ A clean, centered calculator interface with real-calculator behavior and smooth 
 
 Shubham Kumar Yadav
 
-GitHub: https://github.com/USERNAME
+GitHub: https://github.com/Shubham-Git-Hub-1Pro
 
 ---
 
