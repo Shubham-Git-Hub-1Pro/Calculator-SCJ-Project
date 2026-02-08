@@ -61,6 +61,8 @@ Shubham Kumar Yadav
 
 GitHub: https://github.com/USERNAME
 
+---
+
 © Copyright & License
 
 © 2026 Shubham Kumar Yadav. All rights reserved.
