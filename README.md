@@ -54,23 +54,18 @@ GitHub: https://github.com/Shubham-Git-Hub-1Pro
 
 ---
 
-© Copyright & License
+## © Copyright & License
 
 © 2026 Shubham Kumar Yadav. All rights reserved.
 
-This project is created for learning and educational purposes.
-You are allowed to:
+This project is intended for learning and educational purposes.
 
-✅ Learn from this project
+You may:
+- View and study the source code
+- Modify the code for personal or educational use
 
-✅ Modify it for personal use
+You may not:
+- Use this project for commercial purposes without prior permission
+- Redistribute or sell this project as your own work
 
-You are NOT allowed to:
-
-❌ Sell this project
-
-❌ Use it commercially without permission
-
-❌ Claim this project as your own
-
-If you wish to use this project beyond personal or educational use, please contact the author.
+For any other use, please contact the author.
